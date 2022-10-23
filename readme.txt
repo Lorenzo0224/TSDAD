@@ -1,0 +1,2 @@
+运行test可以测试F1-measure等结果
+运行hypergraph可以得到异常检测输出
